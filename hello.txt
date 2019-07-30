@@ -4,3 +4,4 @@ git rebase
 git test
 git my
 git ni
+git master
